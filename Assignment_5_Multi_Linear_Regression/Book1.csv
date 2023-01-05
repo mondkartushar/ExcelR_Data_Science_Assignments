@@ -1,0 +1,7 @@
+Sr.No.,Target,Features,R_squared,R_squared_adjusted
+1,Profit,R&D+Marketing+Administration,0.951,0.958
+2,Profit,R&D,0.946,0.945
+3,Profit,Marketing,0.559,0.549
+4,Profit,Administration,0.04,0.02
+5,Profit,R&D+Marketing,0.95,0.948
+6,Profit,R&D+Administration,0.947,0.945
